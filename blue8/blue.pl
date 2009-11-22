@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-
+# Part of Blue 8 by Al Williams http://blue.hotsolder.com
 # V2 supports # constant syntax
 # we used to support multiple files on command line
 # but now that the driver script uses cpp, assume 1 file only
