@@ -1,0 +1,19 @@
+GPLCVER_2.11a of 07/05/05 (Linux-elf).
+Copyright (c) 1991-2005 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Sat Dec 10 18:04:02 2005.
+Compiling source file "alu.v"
+Compiling source file "control.v"
+Compiling source file "idecode.v"
+Compiling source file "mem.v"
+Compiling source file "misc.v"
+Compiling source file "switchsync.v"
+Compiling source file "top.v"
+Compiling source file "tests/t_blue.v"
+Highest level modules:
+ocand2
+t_blue
+
+Halted at location **tests/t_blue.v(21) time 1260 from call to $finish.
+  There were 0 error(s), 0 warning(s), and 112 inform(s).
